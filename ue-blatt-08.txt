@@ -1,0 +1,18 @@
+
+TEX \begin{center}{\large\scshape{Diskrete Verteilungsfamilien.}}\end{center}
+TEX \vskip \baselineskip
+
+FPB \paragraph{%s} 
+FSB \paragraph*{Lösung.} 
+
+S Geometrische Verteilung. Gedächtnislosigkeit.
+S Geometrische Verteilung. Additionstheorem.
+
+S Weinfehler. Verteilungsfunktion.
+
+S Poisson-Verteilung. Additionstheorem.
+S Reifenpannen.
+
+S Tschebyscheff'sche Ungleichung. 100 Würfel.
+S Markow'sche Ungleichung. Diskreter Fall.
+

@@ -1,0 +1,15 @@
+
+TEX \begin{center}{\large\scshape{Einführung in die Statistik.}}\end{center}
+TEX \vskip \baselineskip
+
+FPB \paragraph{%s} 
+FSB \paragraph*{Lösung.} 
+
+S Schätzung der Varianz bei bekanntem Erwartungswert.
+S Einfache Schätzer. Telefonzentrale.
+S Kondensatoren. Konfidenzintervall.
+S Qualitätssicherung. Konfidenzintervall.
+S Justierung. Konfidenzintervall.
+S Aktie im Bachelier-Modell.
+
+

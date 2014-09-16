@@ -1,0 +1,14 @@
+
+TEX \begin{center}{\large\scshape{Mehrdimensionale Verteilungen.}}\end{center}
+TEX \vskip \baselineskip
+
+FPB \paragraph{%s} 
+FSB \paragraph*{Lösung.} 
+
+S Bivariate Rademacherverteilung.
+S Gleichverteilung auf dem Einheitskreis.
+S Bedingte Dichten. Ein Rechenbeispiel.
+S Korrelationskoeffizient. Eigenschaften.
+
+
+

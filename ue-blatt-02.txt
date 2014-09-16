@@ -1,0 +1,12 @@
+
+TEX \begin{center}{\large\scshape{Zufallsvariablen und $\sigma$-Algebren.}}\end{center}
+TEX \vskip \baselineskip
+
+
+P Zufallsvariablen. Urbildmengen.
+P Zufallsvariablen. Zwei unterscheidbare Würfel.
+P Zufallsvariablen. Indikatorfunktionen.
+P $\sigma$-Algebren. Schachspieler.
+P $\sigma$-Algebren. Potenzmenge.
+P $\sigma$-Algebren. Restriktion.
+

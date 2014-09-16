@@ -1,0 +1,17 @@
+
+TEX \begin{center}{\large\scshape{Diskrete und stetige Verteilungsfamilien.}}\end{center}
+TEX \vskip \baselineskip
+
+FPB \paragraph{%s} 
+FSB \paragraph*{Lösung.} 
+
+S Exponentialverteilung. Dichte des Maximums.
+S Gleichverteilung und Exponentialverteilung.
+S Stetige Gleichverteilung. Momente.
+
+S Lebensdauer der Glühlampen.
+S Radioaktivität.
+S Entfernungsmessung.
+
+
+

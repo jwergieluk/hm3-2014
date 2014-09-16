@@ -1,0 +1,13 @@
+
+TEX \begin{center}{\large\scshape{Konfidenzintervalle und Tests.}}\end{center}
+TEX \vskip \baselineskip
+
+FPB \paragraph{%s} 
+FSB \paragraph*{Lösung.} 
+
+S Waschmittel. Test.
+S Messgerät. Test.
+S Entfernungsmessung. Konfidenzintervall und Test. 
+S Test. Trendvergleich bei Funds.
+
+

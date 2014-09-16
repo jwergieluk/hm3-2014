@@ -1,0 +1,18 @@
+
+TEX \begin{center}{\large\scshape{Normalverteilung und Grenzverteilungsätze.}}\end{center}
+TEX \vskip \baselineskip
+
+FPB \paragraph{%s} 
+FSB \paragraph*{Lösung.} 
+
+
+S Normalverteilung. Abweichungen vom Mittelwert.
+S Ersatzteillieferung.
+
+S Grenzverteilungsätze. Schaltkreise.
+S Grenzverteilungsätze. Kondensatoren.
+S Übertragungskanal.
+S Grenzverteilungsätze. Schaltgehäuse.
+
+#S Grenzverteilungsätze. Münzen.
+
