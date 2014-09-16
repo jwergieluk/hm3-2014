@@ -5,6 +5,7 @@ set -e; set -u
 
 PROBLEMS="`pwd`/../problem-pool/probability-theory.tex `pwd`/../problem-pool/statistics.tex `pwd`/../problem-pool/elementary-probability.tex"
 TMP="/tmp"
+PROBLEM_EXTR="`pwd`/../problem-extractor/pe.py"
 
 
 for KEYS in ue-blatt-??.txt; do
@@ -14,7 +15,7 @@ for KEYS in ue-blatt-??.txt; do
 
     if [[ $KEYS -nt $PDF  ]]; then
         cat sheet-head.tex | sed -r "s/SHEETNO/$NO/g" > $TMP/$TEX
-        pe $KEYS $PROBLEMS | sed -r "s/SHEETNO/$NO/g" >> $TMP/$TEX
+        $PROBLEM_EXTR $KEYS $PROBLEMS | sed -r "s/SHEETNO/$NO/g" >> $TMP/$TEX
         cat sheet-tail.tex | sed -r "s/SHEETNO/$NO/g" >> $TMP/$TEX
         pdflatex    -output-directory   $TMP $TMP/$TEX
 #        biber       --output_directory  $TMP ${TEX/.tex/}
