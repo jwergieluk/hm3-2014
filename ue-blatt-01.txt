@@ -1,14 +1,14 @@
 
-
 TEX \begin{center}{\large\scshape{Zufällige Ereignisse und Wahrscheinlichkeiten.}}\end{center}
 TEX \vskip \baselineskip
 
 P Ereignisse. Mengenoperationen.
+S Ereignisse. Modellierung: Würfel und Münze.
 P Ereignisse. Kraftwerk.
 P Ereignisse. Aktienmarkt.
 P Ereignisse. Fertigungsstraße.
 P Ereignisse. Kosten.
-P Ereignisse. Zerlegung des Würfels.
+
 
 
 

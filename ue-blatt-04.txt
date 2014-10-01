@@ -1,17 +1,15 @@
 
-TEX \begin{center}{\large\scshape{Bedingte Wahrscheinlichkeiten und Kombinatorik.}}\end{center}
+TEX \begin{center}{\large\scshape{Kombinatorik.}}\end{center}
 TEX \vskip \baselineskip
 
-S Bedingte Wahrscheinlichkeiten. Unfaire Münzen.
-S Bedingte Wahrscheinlichkeiten. Versicherungsunternehmen.
-S Bedingte Wahrscheinlichkeiten. 3 Würfel.
-S Bedingte Wahrscheinlichkeiten. Symmetrie.
-S Bedingte Wahrscheinlichkeiten. 2 Münzen.
-S Bedingte Wahrscheinlichkeiten. Urne mit Kugeln.
 
+S Kombinatorik. Passwörter.
+S Kombinatorik. Zwei Würfel.
+S Kombinatorik. Aufzug.
+S Kombinatorik. Karten. $6$ aus $52$.
+S Kombinatorik. Karten. $13$ aus $52$.
 S Kombinatorik. Single choice test.
 S Kombinatorik. PINs und runs.
-
 
 
 
