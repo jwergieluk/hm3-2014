@@ -4,14 +4,9 @@ TEX \vskip \baselineskip
 
 S Ereignisse. Elementare Wahrscheinlichkeiten.
 S Wahrscheinlichkeitsmaße. Monotonie.
-
-TEX \emph{\textcolor{red}{TODO: Einfache Aufgabe für Additivität in der Praxis (Vereinigung durchschnittsfremder Ereignisse)}}
-
 S Ereignisse. Zerlegung des Würfels.
 S Ereignisse. Würfel und Münze.
 S Kombinatorik. Würfel. 4 vs.~24.
-
-TEX \emph{Zusatz:}
 S Wahrscheinlichkeitsmaße. Subaditivität.
 S Wahrscheinlichkeitsmaße. Zerlegung der Vereinigung.
 
