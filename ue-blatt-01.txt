@@ -1,5 +1,5 @@
 
-TEX \begin{center}{\large\scshape{Zufällige Ereignisse und Wahrscheinlichkeiten.}}\end{center}
+TEX \begin{center}{\large\scshape{Zufällige Ereignisse.}}\end{center}
 TEX \vskip \baselineskip
 
 P Ereignisse. Mengenoperationen.

@@ -5,9 +5,9 @@ TEX \vskip \baselineskip
 
 S Kombinatorik. Passwörter.
 S Kombinatorik. Aufzug.
-S Kombinatorik. Zwei Würfel.
 S Kombinatorik. Karten. $6$ aus $52$.
 S Kombinatorik. Karten. $13$ aus $52$.
+S Kombinatorik. Schachbrett.
 S Kombinatorik. PINs und runs.
 S Kombinatorik. Single choice test.
 
