@@ -6,8 +6,8 @@ TEX \vskip \baselineskip
 P Zufallsvariablen. Urbildmengen.
 P Zufallsvariablen. Zwei unterscheidbare Würfel.
 P Zufallsvariablen. Indikatorfunktionen.
-S Zufallsvariablen. Schachmeister.
-S $\sigma$-Algebren. Schachspieler.
+P Zufallsvariablen. Schachmeister.
+P $\sigma$-Algebren. Schachspieler.
 P $\sigma$-Algebren. Potenzmenge.
 P $\sigma$-Algebren. Restriktion.
 

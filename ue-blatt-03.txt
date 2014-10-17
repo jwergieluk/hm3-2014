@@ -2,14 +2,14 @@
 TEX \begin{center}{\large\scshape{Wahrscheinlichkeitsräume und Laplacesche Modelle.}}\end{center}
 TEX \vskip \baselineskip
 
-S Ereignisse. Elementare Wahrscheinlichkeiten.
-S Wahrscheinlichkeitsmaße. Monotonie.
-S Ereignisse. Zerlegung des Würfels.
-S Ereignisse. Würfel und Münze II.
-S Kombinatorik. Würfel. 4 vs.~24.
-S Laplacesche Modelle. Zwei Würfel.
-S Wahrscheinlichkeitsmaße. Subaditivität.
-S Wahrscheinlichkeitsmaße. Zerlegung der Vereinigung.
+P Ereignisse. Elementare Wahrscheinlichkeiten.
+P Wahrscheinlichkeitsmaße. Monotonie.
+P Ereignisse. Zerlegung des Würfels.
+P Ereignisse. Würfel und Münze II.
+P Kombinatorik. Würfel. 4 vs.~24.
+P Laplacesche Modelle. Zwei Würfel.
+P Wahrscheinlichkeitsmaße. Subaditivität.
+P Wahrscheinlichkeitsmaße. Zerlegung der Vereinigung.
 
 
 

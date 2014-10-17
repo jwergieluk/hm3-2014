@@ -3,13 +3,13 @@ TEX \begin{center}{\large\scshape{Kombinatorik.}}\end{center}
 TEX \vskip \baselineskip
 
 
-S Kombinatorik. Passwörter.
-S Kombinatorik. Aufzug.
-S Kombinatorik. Karten. $6$ aus $52$.
-S Kombinatorik. Karten. $13$ aus $52$.
-S Kombinatorik. Schachbrett.
-S Kombinatorik. PINs und runs.
-S Kombinatorik. Single choice test.
+P Kombinatorik. Passwörter.
+P Kombinatorik. Aufzug.
+P Kombinatorik. Karten. $6$ aus $52$.
+P Kombinatorik. Karten. $13$ aus $52$.
+P Kombinatorik. Schachbrett.
+P Kombinatorik. PINs und runs.
+P Kombinatorik. Single choice test.
 
 
 
