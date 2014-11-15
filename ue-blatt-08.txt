@@ -5,14 +5,15 @@ TEX \vskip \baselineskip
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
-S Geometrische Verteilung. Gedächtnislosigkeit.
-S Geometrische Verteilung. Additionstheorem.
+P Geometrische Verteilung. Gedächtnislosigkeit.
+P Geometrische Verteilung. Minima und Maxima.
+P Weinfehler. Verteilungsfunktion.
+P Binomialverteilung. Gerade Werte.
+P Reifenpannen.
 
-S Weinfehler. Verteilungsfunktion.
+P Geometrische Verteilung. Additionstheorem.
+P Poisson-Verteilung. Additionstheorem.
 
-S Poisson-Verteilung. Additionstheorem.
-S Reifenpannen.
-
-S Tschebyscheff'sche Ungleichung. 100 Würfel.
-S Markow'sche Ungleichung. Diskreter Fall.
+#P Tschebyscheff'sche Ungleichung. 100 Würfel.
+#P Markow'sche Ungleichung. Diskreter Fall.
 
