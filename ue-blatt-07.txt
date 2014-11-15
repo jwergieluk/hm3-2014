@@ -5,11 +5,13 @@ TEX \vskip \baselineskip
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
-S Zufallsvariablen. Konstruktion über Wahrscheinlichkeitsfunktion.
-S Zufallsvariablen. Funktionen der Augenzahl.
-S Zufallsvariablen. Ausfälle der Bauelemente.
+P Zufallsvariablen. Konstruktion über Wahrscheinlichkeitsfunktion.
+P Zufallsvariablen. Funktionen der Augenzahl.
+P Zufallsvariablen. Ausfälle der Bauelemente.
 
-S Zufallsvariablen. Bernoulli-Verteilung.
-S Zufallsvariablen. Diskrete Gleichverteilung.
-S Erwartungswert. Einfache Eigenschaften.
+P Zufallsvariablen. Bernoulli-Verteilung.
+P Benfordsches Gesetz.
+P Erwartungswert. Einfache Eigenschaften.
+
+P Zufallsvariablen. Diskrete Gleichverteilung.
 
