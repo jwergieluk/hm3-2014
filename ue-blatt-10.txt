@@ -5,14 +5,14 @@ TEX \vskip \baselineskip
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
+# ZGVS
+P Grenzverteilungsätze. Weinfehler.
+P Grenzverteilungsätze. Schaltkreise.
 
-S Normalverteilung. Abweichungen vom Mittelwert.
-S Ersatzteillieferung.
+# GVS von Possion
+P Grenzverteilungsätze. Cloudrechner.
+P Übertragungskanal.
 
-S Grenzverteilungsätze. Schaltkreise.
-S Grenzverteilungsätze. Kondensatoren.
-S Übertragungskanal.
-S Grenzverteilungsätze. Schaltgehäuse.
-
-#S Grenzverteilungsätze. Münzen.
+P Grenzverteilungsätze. Schaltgehäuse.
+P Grenzverteilungsätze. Kondensatoren.
 

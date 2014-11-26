@@ -5,13 +5,16 @@ TEX \vskip \baselineskip
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
-S Exponentialverteilung. Dichte des Maximums.
-S Gleichverteilung und Exponentialverteilung.
-S Stetige Gleichverteilung. Momente.
+P Lebensdauer der Glühlampen.
+P Gasmelder.
 
-S Lebensdauer der Glühlampen.
-S Radioaktivität.
-S Entfernungsmessung.
+P Normalverteilung. Abweichungen vom Mittelwert.
+P Ersatzteillieferung.
+P Stetige Gleichverteilung. Momente.
 
+P Radioaktivität.
+P Entfernungsmessung.
 
+P Gleichverteilung und Exponentialverteilung.
+P Exponentialverteilung. Dichte des Maximums.
 
