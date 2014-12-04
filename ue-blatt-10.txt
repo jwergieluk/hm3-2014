@@ -1,5 +1,5 @@
 
-TEX \begin{center}{\large\scshape{Normalverteilung und Grenzverteilungsätze.}}\end{center}
+TEX \begin{center}{\large\scshape{Grenzverteilungsätze.}}\end{center}
 TEX \vskip \baselineskip
 
 FPB \paragraph{%s} 

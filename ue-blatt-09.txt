@@ -10,7 +10,6 @@ P Gasmelder.
 
 P Normalverteilung. Abweichungen vom Mittelwert.
 P Ersatzteillieferung.
-P Stetige Gleichverteilung. Momente.
 
 P Radioaktivität.
 P Entfernungsmessung.
