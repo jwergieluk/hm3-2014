@@ -1,14 +1,15 @@
 
-TEX \begin{center}{\large\scshape{Mehrdimensionale Verteilungen.}}\end{center}
+TEX \begin{center}{\large\scshape{Einführung in die Statistik.}}\end{center}
 TEX \vskip \baselineskip
 
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
-S Bivariate Rademacherverteilung.
-S Gleichverteilung auf dem Einheitskreis.
-S Bedingte Dichten. Ein Rechenbeispiel.
-S Korrelationskoeffizient. Eigenschaften.
+P Einfache Schätzer. Telefonzentrale.
+P Schätzung der Varianz bei bekanntem Erwartungswert.
 
+P Kondensatoren. Konfidenzintervall.
+P Justierung. Konfidenzintervall.
+P Qualitätssicherung. Konfidenzintervall.
 
 

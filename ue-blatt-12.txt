@@ -1,15 +1,17 @@
 
-TEX \begin{center}{\large\scshape{Einführung in die Statistik.}}\end{center}
+TEX \begin{center}{\large\scshape{Konfidenzintervalle und Tests.}}\end{center}
 TEX \vskip \baselineskip
 
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
-S Schätzung der Varianz bei bekanntem Erwartungswert.
-S Einfache Schätzer. Telefonzentrale.
-S Kondensatoren. Konfidenzintervall.
-S Qualitätssicherung. Konfidenzintervall.
-S Justierung. Konfidenzintervall.
-S Aktie im Bachelier-Modell.
+P Waschmittel. Test.
+P Erneuerbare Energien. Test.
+P Messgerät. Test.
+
+TEX \newpage
+
+P Analyse des Zuckerpreises. 
+P Entfernungsmessung. Konfidenzintervall und Test. 
 
 
