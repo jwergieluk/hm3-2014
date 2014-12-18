@@ -5,8 +5,9 @@ TEX \vskip \baselineskip
 FPB \paragraph{%s} 
 FSB \paragraph*{Lösung.} 
 
-P Test. Trendvergleich bei Funds.
-P Analyse des Kaffeebohnenpreises.
+P Analyse des Zuckerpreises. 
+P Entfernungsmessung. Konfidenzintervall und Test. 
+
 
 TEX \newpage
 P Aktie im Bachelier-Modell.

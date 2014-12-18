@@ -1,5 +1,5 @@
 
-TEX \begin{center}{\large\scshape{Konfidenzintervalle und Tests.}}\end{center}
+TEX \begin{center}{\large\scshape{Punktschätzung und Tests.}}\end{center}
 TEX \vskip \baselineskip
 
 FPB \paragraph{%s} 
@@ -11,7 +11,6 @@ P Messgerät. Test.
 
 TEX \newpage
 
-P Analyse des Zuckerpreises. 
-P Entfernungsmessung. Konfidenzintervall und Test. 
-
+P Test. Trendvergleich bei Funds.
+P Analyse des Kaffeebohnenpreises.
 
